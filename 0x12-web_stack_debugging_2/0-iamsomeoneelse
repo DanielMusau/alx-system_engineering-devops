@@ -1,5 +1,0 @@
-#usr/bin/env bash
-# Script tht runs whoami commnd under a user passed
-#!/usr/bin/env bash
-# Script that runs whoami command under a user passed
-sudo -u "$1" 'whoami'
