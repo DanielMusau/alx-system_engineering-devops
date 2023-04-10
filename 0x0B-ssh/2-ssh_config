@@ -1,3 +1,0 @@
-Host ubuntu
-	PasswordAuthentication no
-	IdenityFile ~/.ssh/school
