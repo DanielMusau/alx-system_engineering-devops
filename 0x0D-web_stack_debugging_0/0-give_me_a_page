@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script that turns on Apache server and
+# returns Hello Holberton
+sudo service apache2 start
