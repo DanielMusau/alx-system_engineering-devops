@@ -9,5 +9,6 @@ Project done during **Full Stack Software Engineering studies** at **ALX Africa*
 
 | Filename | Description |
 | -------- | ----------- |
-| `0-give_me_a_page` | Turns on the Apache server |
-
+| `0-custom_http_response_header` | Script that configures Nginx so that its HTTP response contains a custom header. |
+| `1-install_load_balancer` | Script that Installs and configures HAproxy on the `lb-01` server.|
+| `2-puppet_custom_http_response_header.pp` | Puppet Script that configures Nginx so that its HTTP response contains a custom header.|
